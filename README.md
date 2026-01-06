@@ -124,6 +124,8 @@ The `app.py` script builds a simple UI where users can:
 Screenshots:
 
 <img width="772" height="509" alt="Screenshot 2026-01-06 142652" src="https://github.com/user-attachments/assets/10a5186a-86fb-4f71-a9b3-478d05e80137" />
+
 <img width="1374" height="711" alt="Screenshot 2026-01-06 142358" src="https://github.com/user-attachments/assets/20397d17-730e-4fe5-80b8-890f8cc19b3c" />
+
 <img width="1455" height="723" alt="Screenshot 2026-01-06 142543" src="https://github.com/user-attachments/assets/2ff86f47-68bd-4715-bb32-ba137eacd4f1" />
 
